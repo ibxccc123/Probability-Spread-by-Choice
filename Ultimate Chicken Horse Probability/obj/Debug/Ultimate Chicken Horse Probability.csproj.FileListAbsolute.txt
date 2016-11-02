@@ -1,0 +1,6 @@
+c:\users\penguin\documents\visual studio 2013\Projects\Ultimate Chicken Horse Probability\Ultimate Chicken Horse Probability\bin\Debug\Ultimate Chicken Horse Probability.exe.config
+c:\users\penguin\documents\visual studio 2013\Projects\Ultimate Chicken Horse Probability\Ultimate Chicken Horse Probability\bin\Debug\Ultimate Chicken Horse Probability.exe
+c:\users\penguin\documents\visual studio 2013\Projects\Ultimate Chicken Horse Probability\Ultimate Chicken Horse Probability\bin\Debug\Ultimate Chicken Horse Probability.pdb
+c:\users\penguin\documents\visual studio 2013\Projects\Ultimate Chicken Horse Probability\Ultimate Chicken Horse Probability\obj\Debug\Ultimate Chicken Horse Probability.csprojResolveAssemblyReference.cache
+c:\users\penguin\documents\visual studio 2013\Projects\Ultimate Chicken Horse Probability\Ultimate Chicken Horse Probability\obj\Debug\Ultimate Chicken Horse Probability.exe
+c:\users\penguin\documents\visual studio 2013\Projects\Ultimate Chicken Horse Probability\Ultimate Chicken Horse Probability\obj\Debug\Ultimate Chicken Horse Probability.pdb
